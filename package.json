@@ -28,7 +28,7 @@
 	"main": "src/index.js",
 	"dependencies": {},
 	"devDependencies": {
-		"http-server": "^0.10.0",
+		"http-server": "^14.1.1",
 		"babel-core": "*",
 		"babel-env": "*",
 		"babel-polyfill": "*",
